@@ -12,7 +12,7 @@ public class Photo_Tiles {
         //Dimensions of tiles:
         int Width = 5;
         int height = 10;
-        //spacing between tiles):
+        //spacing between tiles:
         double spacing = .5;
         //rows and columns:
         int rows = 1;
