@@ -9,10 +9,10 @@ public class Photo_Tiles {
 
         //Image to use:
         String file = "image.jpg";
-        //Dimensions of tiles (in inches):
+        //Dimensions of tiles:
         int Width = 5;
         int height = 10;
-        //spacing between tiles (int inches):
+        //spacing between tiles):
         double spacing = .5;
         //rows and columns:
         int rows = 1;
